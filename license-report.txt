@@ -1,0 +1,7 @@
+└─ simon-says@0.0.0
+   ├─ licenses: UNLICENSED
+   ├─ private: true
+   ├─ dependencyPath: D:\uni\3cuirs\STD\simon-says
+   ├─ path: D:\uni\3cuirs\STD\simon-says
+   └─ licenseFile: D:\uni\3cuirs\STD\simon-says\LICENSE
+
